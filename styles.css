@@ -10,9 +10,11 @@ nav{
 }
 nav ul{
 	list-style: none;
+}
+nav ul li{
+	margin-right: 1rem;
 	display: inline;
 }
 nav ul li a{
 	text-decoration: none;
-	margin-right: 1rem;
 }
